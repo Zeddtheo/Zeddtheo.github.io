@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to dactl!"
+title:  "Welcome to MiSc!"
 tags:
-  - dactl
+  - MiSc
   - jekyll
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
